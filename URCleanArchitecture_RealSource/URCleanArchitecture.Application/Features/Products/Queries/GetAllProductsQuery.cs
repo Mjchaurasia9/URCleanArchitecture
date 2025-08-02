@@ -1,0 +1,1 @@
+// GetAllProductsQuery handler

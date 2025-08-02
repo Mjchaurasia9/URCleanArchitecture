@@ -1,0 +1,1 @@
+// StockProduct entity
